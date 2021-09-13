@@ -8,3 +8,5 @@
 | 3  | golang | Learn Go Programming  | https://www.youtube.com/watch?v=YS4e4q9oBaU | NOT STARTED
 | 4  | golang | JSON Data Modeling for Success and Performance  | https://www.youtube.com/watch?v=wwwVYHZhxUc | NOT STARTED
 | 5  | golang | JSON Data Modeling for Success and Performance  | https://www.youtube.com/watch?v=S5nNrrgpypU | NOT STARTED
+
+https://medium.com/codex/learn-the-fundamentals-of-kubernetes-for-software-developers-2a386ab73ca2
